@@ -1,0 +1,6 @@
+projectKey=com.ropeok3:Facecomparison_all3
+serverUrl=http://172.16.1.115:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://172.16.1.115:9000/dashboard?id=com.ropeok3%3AFacecomparison_all3
+ceTaskId=AWu82HNtbcM9lPNciGV-
+ceTaskUrl=http://172.16.1.115:9000/api/ce/task?id=AWu82HNtbcM9lPNciGV-
